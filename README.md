@@ -17,6 +17,14 @@ Focus on the most advanced methods here:
 * another pre-trained language model
 * continue researching...
 
+## models 
+
+* [HATE BERT](https://huggingface.co/cardiffnlp/twitter-roberta-base-hate)
+* [train a roberta using COVID-HATE data]()
+* [top models in tweeteval-hate]()
+
+-> voting system
+
 ## Evaluation
 
 evaluate each system using COVID-HATE corpus
@@ -48,3 +56,8 @@ evaluate each system using COVID-HATE corpus
 * [resources and benchmark datasets for hate speech detection: a systemetic review](https://link.springer.com/article/10.1007/s10579-020-09502-8)
 * [COVID-HATE data](https://dl.acm.org/doi/abs/10.1145/3487351.3488324)
 * [COVID-HateBERT](https://ieeexplore.ieee.org/abstract/document/9680128)
+
+
+## Noting taking
+
+* number of \#china tweets posted on 2022-02-20: 5345
