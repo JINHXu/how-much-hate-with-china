@@ -1,6 +1,8 @@
-# How much hate with \#china? Analyze China-related hateful tweets two years since the global pandemic
+# How much hate with \#china? Analyze China-related hateful tweets two years since the Covid pandemic
 
-ENLP term project \& paper
+Code repository for the paper 
+
+__How much hate with \#china? Analyze China-related hateful tweets two years since the Covid pandemic__
 
 
 ## Data
@@ -45,9 +47,6 @@ evaluate each system using COVID-HATE corpus
 
 
 
-
-
-
 ## References
 
 * [Hate speech detection: Challenges and solutions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221152)
@@ -56,8 +55,15 @@ evaluate each system using COVID-HATE corpus
 * [resources and benchmark datasets for hate speech detection: a systemetic review](https://link.springer.com/article/10.1007/s10579-020-09502-8)
 * [COVID-HATE data](https://dl.acm.org/doi/abs/10.1145/3487351.3488324)
 * [COVID-HateBERT](https://ieeexplore.ieee.org/abstract/document/9680128)
+* [An Extensive Guide to collecting tweets from Twitter API v2 for academic research using Python 3](https://towardsdatascience.com/an-extensive-guide-to-collecting-tweets-from-twitter-api-v2-for-academic-research-using-python-3-518fcb71df2a)
+
+* [Twitter API dev docs](https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-all)
 
 
 ## Noting taking
 
 * number of \#china tweets posted on 2022-02-20: 5345
+
+## MISC
+
+* [dev portal dashboard](https://developer.twitter.com/en/portal/dashboard)
