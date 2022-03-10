@@ -63,6 +63,7 @@ evaluate each system using COVID-HATE corpus
 * [An Extensive Guide to collecting tweets from Twitter API v2 for academic research using Python 3](https://towardsdatascience.com/an-extensive-guide-to-collecting-tweets-from-twitter-api-v2-for-academic-research-using-python-3-518fcb71df2a)
 
 * [Twitter API dev docs](https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-all)
+* [Misinformation and Hate Speech: The Case of Anti-Asian Hate Speech During the COVID-19 Pandemic](https://tsjournal.org/index.php/jots/article/view/13)
 
 
 ## Noting taking
