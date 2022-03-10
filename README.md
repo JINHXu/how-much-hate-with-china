@@ -24,11 +24,10 @@ Focus on the most advanced methods here:
 * [HATE BERT](https://huggingface.co/cardiffnlp/twitter-roberta-base-hate)
 * [CODID-HATE BERT](https://www.dropbox.com/sh/g9uglvl3cd61k69/AACEk2O2BEKwRTcGthgROOcWa?dl=0)
 * [BERTweet](https://huggingface.co/cardiffnlp/bertweet-base-hate)
-* [HateXplain](https://huggingface.co/Hate-speech-CNERG/bert-base-uncased-hatexplain)
-* [TimeLMs: Diachronic Language Models from Twitter](https://huggingface.co/Hate-speech-CNERG/bert-base-uncased-hatexplain)
+* [HateXplain/TimeLMs: Diachronic Language Models from Twitter](https://huggingface.co/Hate-speech-CNERG/bert-base-uncased-hatexplain)
 
-* [SNORKEL spam tutorial](https://www.snorkel.org/use-cases/01-spam-tutorial)
-* [top models in tweeteval-hate]
+* ~~[SNORKEL spam tutorial](https://www.snorkel.org/use-cases/01-spam-tutorial)~~
+* ~~[top models in tweeteval-hate]()~~
 
 -> voting system
 
