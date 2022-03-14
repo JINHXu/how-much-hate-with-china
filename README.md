@@ -63,7 +63,7 @@ evaluate each system using COVID-HATE corpus
 
 * [Twitter API dev docs](https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-all)
 * [Misinformation and Hate Speech: The Case of Anti-Asian Hate Speech During the COVID-19 Pandemic](https://tsjournal.org/index.php/jots/article/view/13)
-
+* [ElSherief 2018](https://github.com/mayelsherif/hate_speech_icwsm18)
 
 ## Noting taking
 
