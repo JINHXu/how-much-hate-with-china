@@ -1,2 +1,6 @@
 resources/
 scripts/exp/get_tweets.ipynb
+papers/
+data/
+graphs/
+predictions/

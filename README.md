@@ -1,4 +1,39 @@
-# How much hate with \#china? Analyze China-related hateful tweets two years since the Covid pandemic
+## How much hate with \#china? A preliminary ananlysis on hateful tweets hashtagged china two years after the pandemic
+
+
+* [Paper]()
+* _[Author: Jinghua Xu]()_
+
+### Absrtact
+
+> tba
+
+### Data
+
+* [raw data]()
+* [labelled data]()
+
+* _[Twitter crawler script]()_
+
+### Models
+
+* [COVID-HATE-BERT](https://arxiv.org/abs/2005.12423)
+* [cardiffnlp/twitter-roberta-base-hate](https://arxiv.org/pdf/2010.12421)
+* [hateXplain](https://arxiv.org/abs/2012.10289)
+
+
+* _[scripts]()_
+
+
+### Analysis
+
+* [2020]()
+
+* [2021]()
+
+
+
+<!-- # How much hate with \#china? Analyze China-related hateful tweets two years since the Covid pandemic
 
 Code repository for the paper 
 
@@ -22,7 +57,7 @@ Focus on the most advanced methods here:
 ## models 
 
 * [HATE BERT](https://huggingface.co/cardiffnlp/twitter-roberta-base-hate)
-* [CODID-HATE BERT](https://www.dropbox.com/sh/g9uglvl3cd61k69/AACEk2O2BEKwRTcGthgROOcWa?dl=0)
+* [COVID-HATE BERT](https://www.dropbox.com/sh/g9uglvl3cd61k69/AACEk2O2BEKwRTcGthgROOcWa?dl=0)
 * [BERTweet](https://huggingface.co/cardiffnlp/bertweet-base-hate)
 * [HateXplain/TimeLMs: Diachronic Language Models from Twitter](https://huggingface.co/Hate-speech-CNERG/bert-base-uncased-hatexplain)
 
@@ -62,8 +97,10 @@ evaluate each system using COVID-HATE corpus
 * [An Extensive Guide to collecting tweets from Twitter API v2 for academic research using Python 3](https://towardsdatascience.com/an-extensive-guide-to-collecting-tweets-from-twitter-api-v2-for-academic-research-using-python-3-518fcb71df2a)
 
 * [Twitter API dev docs](https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-all)
+
 * [Misinformation and Hate Speech: The Case of Anti-Asian Hate Speech During the COVID-19 Pandemic](https://tsjournal.org/index.php/jots/article/view/13)
 * [ElSherief 2018](https://github.com/mayelsherif/hate_speech_icwsm18)
+
 
 ## Noting taking
 
@@ -74,6 +111,6 @@ evaluate each system using COVID-HATE corpus
 * [dev portal dashboard](https://developer.twitter.com/en/portal/dashboard)
 
 ## DATA
-
+ 
 collected and annotated data should be eventually uploaded to google drive.
-
+ -->
