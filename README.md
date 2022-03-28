@@ -30,9 +30,9 @@ Hate speech detection models:
 
 ### Analysis
 
-* [2020]()
+* [2020](https://colab.research.google.com/drive/1ey7XuGHk8XUdzqfCNHLbpvRt70Yjfq9I?usp=sharing)
 
-* [2021]()
+* [2021](https://colab.research.google.com/drive/1uMpKYhIZAFVmXXFpuf1kYcraRnN4qkKp?usp=sharing)
 
 
 
