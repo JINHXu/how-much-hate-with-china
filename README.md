@@ -14,7 +14,7 @@ Tweets (excl. retweets, replies and quotes) hastagged china posted during the ye
 
 * [data](https://drive.google.com/drive/folders/19_IJP2E6HmRHLYsip5cWMnxPIuHgE09r?usp=sharing)
 
-* _[Twitter crawler script]()_
+* _[Twitter crawler script](https://github.com/JINHXu/how-much-hate-with-china/tree/main/scripts/notebooks/get_data)_
 
 ### Models
 
@@ -25,7 +25,7 @@ Hate speech detection models:
 * [hateXplain](https://arxiv.org/abs/2012.10289)
 
 
-* _[scripts]()_
+* _[scripts](https://github.com/JINHXu/how-much-hate-with-china/tree/main/scripts/notebooks/get_predictions)_
 
 
 ### Analysis
