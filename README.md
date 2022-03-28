@@ -2,22 +2,25 @@
 
 
 * [Paper]()
-* _[Author: Jinghua Xu]()_
+* _[Author: Jinghua Xu](jinhxu.github.io)_
 
 ### Absrtact
 
 > tba
 
-### Data
+### Data 
 
-* [raw data]()
-* [labelled data]()
+Tweets (excl. retweets, replies and quotes) hastagged china posted during the year of 2020 and 2021.
+
+* [data](https://drive.google.com/drive/folders/19_IJP2E6HmRHLYsip5cWMnxPIuHgE09r?usp=sharing)
 
 * _[Twitter crawler script]()_
 
 ### Models
 
-* [COVID-HATE-BERT](https://arxiv.org/abs/2005.12423)
+Hate speech detection models:
+
+* [COVID-HATE BERT](https://arxiv.org/abs/2005.12423)
 * [cardiffnlp/twitter-roberta-base-hate](https://arxiv.org/pdf/2010.12421)
 * [hateXplain](https://arxiv.org/abs/2012.10289)
 
