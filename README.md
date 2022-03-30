@@ -6,7 +6,28 @@
 
 ### Absrtact
 
-> tba
+> Following the outbreak of a global pandemic,
+online contents are filled with hate speech. Donald Trump’s "Chinese Virus" tweet shifted the
+blame for the spread of the Covid-19 virus to
+China and the Chinese people, which triggered
+a new round of anti-China hate both online
+and offline. This research intends to examine
+China-related hate speech on Twitter during
+the two years following the burst of the pandemic (2020 and 2021). Through Twitter’s API,
+in total 2,172,333 tweets hashtagged #china
+posted during the time were collected. By employing multiple state-of-the-art pretrained lan-
+guage models for hate speech detection, a wide
+range of various hate types is ensured to be
+detected, resulting in an automatically labeled
+anti-China hate speech dataset. The analysis
+conducted in this research reveals the number
+of #china tweets and predicted hateful #china
+tweets changing over the two years time span,
+and identifies 2.5% of #china tweets hateful
+in 2020 and 1.9% in 2021. Both ratios are
+found to be above the average rate of online
+hate speech on Twitter at 0.6% estimated in
+Gao et al. (2017).
 
 ### Data 
 
