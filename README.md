@@ -1,4 +1,4 @@
-## How much hate with \#china? A preliminary ananlysis on hateful tweets hashtagged china two years after the pandemic
+## How much hate with #china? A preliminary research on China-related hateful tweets two years after the Covid pandemic began
 
 
 * [Paper]()
