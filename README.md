@@ -2,7 +2,7 @@
 
 
 * [Paper](https://github.com/JINHXu/how-much-hate-with-china/blob/main/How_much_hate_with__china___Jinghua_Xu_.pdf)
-* _[Author: Jinghua Xu](jinhxu.github.io)_
+<!-- * _[Author: Jinghua Xu](jinhxu.github.io)_ -->
 
 ### Absrtact
 
