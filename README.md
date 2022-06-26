@@ -55,6 +55,10 @@ Hate speech detection models:
 
 * [2021](https://colab.research.google.com/drive/1uMpKYhIZAFVmXXFpuf1kYcraRnN4qkKp?usp=sharing)
 
+### misc
+
+* [Tweet word counter](https://colab.research.google.com/drive/17xB5_Q0sQR32GRr7RbGMGLqyvbmuAbeG?usp=sharing)
+
 
 
 <!-- # How much hate with \#china? Analyze China-related hateful tweets two years since the Covid pandemic
