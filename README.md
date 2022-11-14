@@ -1,7 +1,7 @@
 ## How much hate with #china? A preliminary research on China-related hateful tweets two years after the Covid pandemic began
 
 
-* Code repository for the paper [How Much Hate with #china? A Preliminary Analysis on China-related Hateful Tweets Two Years After the Covid Pandemic Began](https://arxiv.org/abs/2211.06116)
+Code repository for the paper [How Much Hate with #china? A Preliminary Analysis on China-related Hateful Tweets Two Years After the Covid Pandemic Began](https://arxiv.org/abs/2211.06116)
 
 ### Absrtact
 
